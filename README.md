@@ -63,6 +63,8 @@ This tutorial provides a step-by-step guide on how to crack Wi-Fi passwords usin
 
    - Let the scan run for 20-30 seconds to gather a comprehensive list of networks. Press `Ctrl+C` to stop the scan.
 
+![Screenshot 2024-09-09 070847](https://github.com/user-attachments/assets/16657867-43f6-4831-bc53-632bd39ecb66)
+
 5. **Select Target Network**:
    - Choose a network from the list that has active clients.
    - Airgeddon will prompt you to select the network you want to target.
