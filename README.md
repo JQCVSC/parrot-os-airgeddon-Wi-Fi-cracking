@@ -1,4 +1,4 @@
-# Wi-Fi Hacking Tutorial Using Parrot Os with Airgeddon
+# Wi-Fi Hacking Tutorial Using Parrot OS with Airgeddon
 
 ## Overview
 
