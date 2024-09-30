@@ -63,7 +63,7 @@ This tutorial provides a step-by-step guide on how to crack Wi-Fi passwords usin
 
    - Let the scan run for 20-30 seconds to gather a comprehensive list of networks. Press `Ctrl+C` to stop the scan.
 
-![Screenshot 2024-09-09 070847](https://github.com/user-attachments/assets/16657867-43f6-4831-bc53-632bd39ecb66)
+![Screenshot 2024-09-09 070847](https://github.com/user-attachments/assets/9a52b5c0-dcb6-40c2-8cae-8b24a7f52757)
 
 5. **Select Target Network**:
    - Choose a network from the list that has active clients.
