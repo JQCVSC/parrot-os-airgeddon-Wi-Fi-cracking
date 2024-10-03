@@ -1,3 +1,7 @@
+## Disclaimer
+
+This guide is for educational purposes only. Unauthorized access to computer networks is illegal and punishable by law. Always obtain explicit permission before testing any network.
+
 # Wi-Fi Hacking Tutorial Using Parrot OS with Airgeddon
 
 ![Screenshot 2024-09-04 192400](https://github.com/user-attachments/assets/d7a7c34f-2e93-4c81-84cc-8b46c77e55ca)
@@ -115,4 +119,3 @@ This guide is for educational purposes only. Unauthorized access to computer net
 - [Parrot Security OS](https://www.parrotsec.org/)
 - [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 - [RockYou Password List](https://github.com/brannondorsey/naive-hashcat/blob/master/rockyou.txt)
-```
